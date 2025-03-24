@@ -1,4 +1,4 @@
-package SwitchCase;
+package switchCase;
 
 import java.util.Scanner;
 
@@ -12,7 +12,6 @@ public class Sc {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Olá! escolha um personagem!");
-
 
         System.out.println("1- Naruto");
         System.out.println("2- Sasuke");
@@ -32,6 +31,8 @@ public class Sc {
             case 3:
                 System.out.println("A Sakura foi a escolhida!");
                 break;
+            default:
+                System.out.println("Vocè nao utilizou uma resposta valida, tente novamente");
 
         }
 
