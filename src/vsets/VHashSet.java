@@ -1,4 +1,5 @@
 import java.util.HashSet;
+import vsets.*;
 
 public class VHashSet {
     public static void main(String[] args) {
