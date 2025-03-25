@@ -1,5 +1,5 @@
 import java.util.HashSet;
-import vsets.*;
+import streamss.*;
 
 public class VHashSet {
     public static void main(String[] args) {
