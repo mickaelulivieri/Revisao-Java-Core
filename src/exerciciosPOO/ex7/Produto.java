@@ -1,4 +1,4 @@
-package exercicios.ex7;
+package exerciciosPOO.ex7;
 
 import java.util.ArrayList;
 import java.util.Iterator;

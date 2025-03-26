@@ -1,4 +1,4 @@
-package exercicios.ex6;
+package exerciciosPOO.ex6;
 
 class Gerente extends Funcionario {
 

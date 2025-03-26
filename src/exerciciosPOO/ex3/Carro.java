@@ -1,4 +1,4 @@
-package exercicios.ex3;
+package exerciciosPOO.ex3;
 /*
 Classe Carro Crie uma classe Carro com atributos marca, modelo, ano e velocidadeAtual.
 Adicione métodos para acelerar, frear e exibir a velocidade atual.

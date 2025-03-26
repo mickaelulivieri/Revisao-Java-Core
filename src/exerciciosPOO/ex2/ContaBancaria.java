@@ -1,4 +1,4 @@
-package exercicios.ex2;
+package exerciciosPOO.ex2;
 
 /*
 Crie uma classe ContaBancaria com atributos titular, saldo e número da conta. Adicione métodos para depositar, sacar e exibir o saldo.

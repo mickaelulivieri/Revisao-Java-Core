@@ -1,6 +1,4 @@
-package exercicios.ex5;
-
-import org.w3c.dom.ls.LSOutput;
+package exerciciosPOO.ex5;
 
 import java.util.Scanner;
 

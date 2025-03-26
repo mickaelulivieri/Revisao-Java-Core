@@ -1,4 +1,4 @@
-package exercicios.ex5;
+package exerciciosPOO.ex5;
 
 /*
 Crie uma classe Retangulo com os atributos largura e altura. Adicione métodos para calcular a **área** e o **perímetro**.

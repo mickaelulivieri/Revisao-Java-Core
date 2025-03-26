@@ -1,4 +1,4 @@
-package exercicios.ex3;
+package exerciciosPOO.ex3;
 
 import java.util.Scanner;
 

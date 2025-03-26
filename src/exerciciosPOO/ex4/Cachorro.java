@@ -1,4 +1,4 @@
-package exercicios.ex4;
+package exerciciosPOO.ex4;
 
 public class Cachorro extends Animal {
 

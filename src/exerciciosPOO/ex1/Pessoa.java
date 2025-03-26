@@ -1,4 +1,4 @@
-package exercicios.ex1;
+package exerciciosPOO.ex1;
 
 /*
 Crie uma classe Pessoa com os atributos
